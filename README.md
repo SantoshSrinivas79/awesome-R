@@ -132,6 +132,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [xkcd](https://cran.r-project.org/web/packages/xkcd/index.html) - Use xkcd style in graphs.
 * [imager](http://dahtah.github.io/imager/) - An image processing package based on CImg library to work with images and display them.
 * [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) -  🔏 Opinionated, typographic-centric ggplot2 themes and theme components.
+* [thomasp85/tweenr: Interpolate your data](https://github.com/thomasp85/tweenr) - The tweenr package doesn't actually perform any animation itself; rather, it calculates smooth interpolations between data points to create new rows in the data which can be used as frames in the animation created by the gganimate package.
 
 
 ## HTML Widgets
